@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<squad nick="GCG">
+  <name>Grizzly Combat Group</name>
+  <email>gcg@unit.com</email>
+  <web>https://units.arma3.com/unit/grizzly-combat-group</web>
+  <picture>GCG.paa</picture>
+  <title>Fortis et Ferox</title>
+
+  <member id="76561198098463159" nick="Matinaz">
+    <name>Matinaz</name>
+    <email>gcg@unit.com</email>
+    <remark>Unit Leader</remark>
+  </member>
+</squad>
