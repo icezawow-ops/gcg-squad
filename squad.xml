@@ -3,7 +3,7 @@
   <name>Grizzly Combat Group</name>
   <email>gcg@unit.com</email>
   <web>https://units.arma3.com/unit/grizzly-combat-group</web>
-  <picture>https://raw.githubusercontent.com/icezawow-ops/gcg-squad/main/GCG.paa</picture>
+  <picture>GCG.paa</picture>
   <title>Fortis et Ferox</title>
 
   <member id="76561198098463159" nick="Matinaz">
@@ -13,3 +13,4 @@
   </member>
 
 </squad>
+
